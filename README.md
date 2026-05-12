@@ -1,16 +1,24 @@
-# React + Vite
+# Golf Charity Platform ⛳️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack web application designed to manage charity subscriptions and donations. This platform provides a seamless experience for users to support charities and for admins to manage data securely.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+**Live Website:** [https://golf-charity-platform-black.vercel.app](https://golf-charity-platform-black.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Key Features
+* **Secure Authentication:** User signup and login powered by Supabase Auth.
+* **Personalized Dashboard:** A dedicated view for users to interact with charity options.
+* **Admin Panel:** Secure administrative route for platform management.
+* **Responsive Design:** Modern UI built with Tailwind CSS for all device sizes.
+* **Dynamic Routing:** Configured for clean URLs and navigation on Vercel.
 
-## React Compiler
+## 🛠️ Tech Stack
+* **Frontend:** React.js, Vite, Tailwind CSS.
+* **Backend/Database:** Supabase.
+* **Deployment:** Vercel.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 Getting Started
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Clone the repository
+```bash
+git clone [https://github.com/PradeepKumar-369/golf-charity-platform](https://github.com/PradeepKumar-369/golf-charity-platform)
